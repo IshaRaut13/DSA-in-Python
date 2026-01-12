@@ -15,3 +15,5 @@ def rearrange(s):
 
 s = [3, 1, -2, -5, 2, -4]
 print(rearrange(s))
+# Time complexity: O(n)
+# Space complexity: O(n)
