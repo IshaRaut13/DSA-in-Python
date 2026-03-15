@@ -7,4 +7,4 @@ def smallest(arr):
 
 
 arr = [45, 87, 56, 23, 54]
-print("Smallest num in array is:", smallest(arr))
+print("Smallest number in array is:", smallest(arr))
